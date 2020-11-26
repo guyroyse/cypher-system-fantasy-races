@@ -39,6 +39,7 @@
 - Trained in perception
 - Trained in all social interactions
 - Practiced with swords
+- **Additional Equipment:** You have a sword
 
 ## Half-Orc
 
