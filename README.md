@@ -57,4 +57,4 @@
 - Trained in magic and spell-casting, specialized in illusions
 - Trained in repairing, crafting, and disabling small mechanical devices
 - Hindered at long moves and short moves with an action
-- **Additional Equipment:** You have a heavy melee weapon
+- **Additional Equipment:** You have a small toolkit
